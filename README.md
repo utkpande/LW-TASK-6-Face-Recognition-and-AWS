@@ -1,0 +1,1 @@
+# LW-TASK-6-Face-Recognition-and-AWS
