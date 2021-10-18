@@ -10,4 +10,4 @@ Additional things to be noted for the working of the model properly:-
 1. Set the environment variables in the local system for sender and receiver email.
 2. Set the environment variable in the local system for the Whatsapp Number.
 3. Create a folder named as "dataset" wherever the Face recognition.ipynb is present.
-4. Login to your aws account using AWS CLI first in order to launch the insatnce. 
+4. Login to your aws account using AWS CLI first in order to launch the instance. 
